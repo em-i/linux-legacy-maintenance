@@ -13,6 +13,6 @@ Un script d'automatisation en **Bash** conçu pour purger proprement les pilotes
 ## Utilisation
 
 ```bash
-git clone https://github.com/em-i/linux-legacy-maintenance.gitc
-cd fix-nvidia-quadro
+git clone https://github.com/em-i/linux-legacy-maintenance.git
+cd linux-legacy-maintenance
 sudo ./fix_nvidia_quadro.sh
